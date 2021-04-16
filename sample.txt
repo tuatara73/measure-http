@@ -1,0 +1,26 @@
+Fri 16 Apr 2021 03:31:37 PM IDT
+the response time is 0.213597
+Fri 16 Apr 2021 03:31:37 PM IDT
+the response time is 0.240844
+Fri 16 Apr 2021 03:31:38 PM IDT
+the response time is 0.214274
+Fri 16 Apr 2021 03:31:38 PM IDT
+the response time is 0.239498
+Fri 16 Apr 2021 03:31:38 PM IDT
+the response time is 0.261225
+Fri 16 Apr 2021 03:31:39 PM IDT
+the response time is 0.253968
+Fri 16 Apr 2021 03:31:39 PM IDT
+the response time is 0.210773
+Fri 16 Apr 2021 03:31:39 PM IDT
+the response time is 0.242718
+Fri 16 Apr 2021 03:31:40 PM IDT
+the response time is 0.244451
+Fri 16 Apr 2021 03:31:40 PM IDT
+the response time is 0.22388
+Fri 16 Apr 2021 03:31:40 PM IDT
+the response time is 0.27735
+Fri 16 Apr 2021 03:31:41 PM IDT
+the response time is 0.262746
+Fri 16 Apr 2021 03:31:41 PM IDT
+the response time is 0.244046
