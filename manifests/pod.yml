@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Pod
+metadata:
+    name: measurement
+    spec:
+        containers:
+            - name: measure
+              image: python
+              volumeMounts:
+                  - name: measvolume
+                    mountPath: /persistent

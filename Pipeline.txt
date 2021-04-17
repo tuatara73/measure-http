@@ -1,0 +1,8 @@
+I'll create an agent and a stage pipeline.
+the agent will call a python container.
+the stage will build the app and show the outcome of the sample file
+with Docker exec command.
+
+
+
+
